@@ -172,18 +172,43 @@ enable = false
 #	icon = "fab fa-stack-overflow"
 #        desc = "Practical questions and curated answers"
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
+[[params.links.user]]
+  name ="Manawyrm"
+  url = "https://twitter.com/manawyrm"
+  icon = "fab fa-twitter"
+        desc = "Software - Frontend & OTA"
+
+[[params.links.user]]
+  name ="Toble_Miner"
+  url = "https://twitter.com/Toble_Miner"
+  icon = "fab fa-twitter"
+        desc = "Software - Embedded Linux"
+
+[[params.links.user]]
+  name ="Jan Henrik"
+  url = "https://twitter.com/JanHenrikH"
+  icon = "fab fa-twitter"
+        desc = "Hardware - OtterCastAudio"
+
+[[params.links.user]]
+  name ="Niklas"
+  url = "https://twitter.com/FauthNiklas"
+  icon = "fab fa-twitter"
+        desc = "Hardware - OtterCastAmp"
+
+
 [[params.links.developer]]
 	name = "GitHub"
-	url = "https://github.com/google/docsy"
+	url = "https://github.com/ottercast"
 	icon = "fab fa-github"
         desc = "Development takes place here!"
 [[params.links.developer]]
   name ="Twitter"
-  url = "https://example.org/twitter"
+  url = "https://example.org/ottercastaudio"
   icon = "fab fa-twitter"
         desc = "Follow us on Twitter to get the latest news!"
 [[params.links.developer]]
-	name = "Developer mailing list"
-	url = "https://example.org/mail"
-	icon = "fa fa-envelope"
-        desc = "Discuss development issues around the project"
+	name = "Telegram User Group"
+	url = "https://t.me/ottercast"
+	icon = "fab fa-telegram-plane"
+        desc = "Discussion and support around the project!"
