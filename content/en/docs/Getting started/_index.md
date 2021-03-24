@@ -7,7 +7,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+Work in Progress
 {{% /pageinfo %}}
 
 Information in this section helps your user try your project themselves.
