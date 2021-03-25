@@ -19,3 +19,4 @@ Because it plays your favorite music over the air, reliably, whenever you need i
 ## Where should I go next?
 
 * [Getting Started](/docs/getting-started/): Get started with OtterCast
+* [Firmware](/docs/firmware): Download the firmware
