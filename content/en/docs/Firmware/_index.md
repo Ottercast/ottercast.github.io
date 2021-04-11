@@ -46,10 +46,10 @@ _These dependency lists are untested, please report if something is missing!_
 mkdir ottercast
 cd ottercast
 git clone https://github.com/Ottercast/buildroot-ottercast-audio.git
-wget https://buildroot.org/downloads/buildroot-2020.11.3.tar.gz
-tar xfv buildroot-2020.11.3.tar.gz
-cd buildroot-2020.11.3/
-make BR2_EXTERNAL=../buildroot-ottercast-audio/buildroot/ ottercast_audio_v2_defconfig
+wget https://buildroot.org/downloads/buildroot-2021.02.1.tar.gz
+tar xfv buildroot-2021.02.1.tar.gz
+cd buildroot-2021.02.1/
+make BR2_EXTERNAL=../buildroot-ottercast-audio/buildroot/ ottercast_s3_defconfig
 ```
 
 This will generate a config file in the buildroot folder.  
