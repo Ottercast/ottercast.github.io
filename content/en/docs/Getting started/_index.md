@@ -8,18 +8,18 @@ description: >
 
 ## Get your device
 
-You still need the Hardware? We are planning a small production run, but until that has happened, please refer to the production files and instructions located within our repositories.
+You still need the Hardware? We are planning a small production run, but until that has happened, please refer to the production files and instructions located in our repositories.
 
 * [OtterCastAudioV2](https://github.com/Ottercast/OtterCastAmp/tree/main/gerber_v1.2)
 * [OtterCastAmp](https://github.com/Ottercast/OtterCastAudioV2/tree/main/production_v2.1)
 
 ## Get the firmware
 
-After acquiring your device you may head to our [firmware section](/docs/firmware/#download-ready-made-images).
+After acquiring your device, you may head to our [firmware section](/docs/firmware/#download-ready-made-images).
 
 ## Flashed, and now?
 
-You can mount the SD-Card to your computer and change the initial configuration by edition the `config.ini` file, present on the first partition. You should add your Wifi credentials and give your Ottercast a lovely hostname, it will be displayed later when you are casting! If you need SSH access, you can add your public key by creating a `authorized_keys` file containing your key.
+You can mount the SD-Card and change the initial configuration by edition the `config.ini` file, present on the first partition. You should add your Wifi credentials and give your Ottercast a lovely hostname, it will be displayed later when you are casting! If you need SSH access, you can add your public key by creating a `ssh_authoried_keys` file containing your key.
 
 ## It works!
 
