@@ -212,3 +212,8 @@ enable = false
 	url = "https://t.me/ottercast"
 	icon = "fab fa-telegram-plane"
         desc = "Discussion and support around the project!"
+[[params.links.developer]]
+	name = "Email"
+	url = "mailto:ottercast@janhenrik.org"
+	icon = "fas fa-at"
+        desc = "Other issues or inquiries? Email us!"
