@@ -19,7 +19,7 @@ After acquiring your device, you may head to our [firmware section](/docs/firmwa
 
 ## Flashed, and now?
 
-You can mount the SD-Card and change the initial configuration by edition the `config.ini` file, present on the first partition. You should add your Wifi credentials and give your Ottercast a lovely hostname, it will be displayed later when you are casting! If you need SSH access, you can add your public key by creating a `ssh_authoried_keys` file containing your key.
+You can mount the SD-Card and change the initial configuration by edition the `config.ini` file, present on the first partition. You should add your Wifi credentials and give your Ottercast a lovely hostname, it will be displayed later when you are casting! If you need SSH access, you can add your public key by creating a `ssh_authorized_keys` file containing your key.
 
 ## It works!
 
