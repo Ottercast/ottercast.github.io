@@ -10,8 +10,8 @@ description: >
 
 You still need the Hardware? We are planning a small production run, but until that has happened, please refer to the production files and instructions located in our repositories.
 
-* [OtterCastAudioV2](https://github.com/Ottercast/OtterCastAudioV2/tree/main/gerber_v1.2)
-* [OtterCastAmp](https://github.com/Ottercast/OtterCastAudioAmp/tree/main/production_v2.1)
+* [OtterCastAudioV2](https://github.com/Ottercast/OtterCastAudioV2/tree/main/gerber_v2.1)
+* [OtterCastAmp](https://github.com/Ottercast/OtterCastAudioAmp/tree/main/production_v1.2)
 
 ## Get the firmware
 
