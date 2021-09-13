@@ -185,7 +185,7 @@ enable = false
         desc = "Software - Embedded Linux"
 
 [[params.links.user]]
-  name ="Jan Henrik"
+  name ="Jana Marie"
   url = "https://twitter.com/JanHenrikH"
   icon = "fab fa-twitter"
         desc = "Hardware - OtterCastAudio"
@@ -214,6 +214,6 @@ enable = false
         desc = "Discussion and support around the project!"
 [[params.links.developer]]
 	name = "Email"
-	url = "mailto:ottercast@janhenrik.org"
+	url = "mailto:ottercast@janamarie.dev"
 	icon = "fas fa-at"
         desc = "Other issues or inquiries? Email us!"
