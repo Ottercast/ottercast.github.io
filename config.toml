@@ -191,8 +191,8 @@ enable = false
         desc = "Hardware - OtterCastAudio"
 
 [[params.links.user]]
-  name ="Niklas"
-  url = "https://twitter.com/FauthNiklas"
+  name ="Lucy"
+  url = "https://twitter.com/lucysrausch"
   icon = "fab fa-twitter"
         desc = "Hardware - OtterCastAmp"
 
