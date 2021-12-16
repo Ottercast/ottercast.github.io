@@ -11,7 +11,7 @@ Ottercast is open source! If your favorite app/protocol is missing, open an [Iss
 ## Snapcast
 [Snapcast](https://github.com/badaix/snapcast) is a multiroom-capable network audio player.  
 Ottercast can act as a Snapcast client and will connect to a Snapcast server which is streaming audio.  
-Multiple Ottercasts (and other Snapcast clients) can connect to the same server and will play perfectly synced audio. 
+Multiple Ottercasts (and other Snapcast clients) can connect to the same server and will play perfectly synced audio.
 
 Ottercast can also work as a Snapcast server and stream audio from it's Line-In port to multiple Snapcast clients.
 
@@ -61,3 +61,9 @@ Use `paprefs` to enable local discovery and ensure `avahi-daemon` is running.
 </div>
 
 
+## Line In
+
+<div class="row">
+<div class="col-md-6">
+
+Not really a protocol, but a supported input method! Connect a line-in via the TRS jack on the back of the OtterCastAmp or the left TRS jack of the OtterCastAudio. Activate the input through the web interface and enjoy your device as an amplifier or wireless audio capture card! You may need to adjust the input volume by running `PULSE_SERVER=x.x.x.x pavucontrol` and e.g. lowering the input volume to 30%.

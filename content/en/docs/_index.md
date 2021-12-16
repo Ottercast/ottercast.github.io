@@ -9,5 +9,5 @@ menu:
 ---
 
 {{% pageinfo %}}
-Welcome to our project documentation page, as by now you will not find much here as it is currently being written.
+Welcome to our project documentation page, work in progress. If you have questions, check the community page and ask us!
 {{% /pageinfo %}}
