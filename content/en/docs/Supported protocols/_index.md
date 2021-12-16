@@ -59,11 +59,15 @@ Use `paprefs` to enable local discovery and ensure `avahi-daemon` is running.
 <div class="col-md-5">
 <img src="/assets/images/paprefs.png" alt="Screenshot of paprefs" class="img-responsive">
 </div>
-
+</div>
 
 ## Line In
 
 <div class="row">
 <div class="col-md-6">
 
-Not really a protocol, but a supported input method! Connect a line-in via the TRS jack on the back of the OtterCastAmp or the left TRS jack of the OtterCastAudio. Activate the input through the web interface and enjoy your device as an amplifier or wireless audio capture card! You may need to adjust the input volume by running `PULSE_SERVER=x.x.x.x pavucontrol` and e.g. lowering the input volume to 30%.
+Not really a protocol, but a supported input method! Connect a line-in via the TRS jack on the back of the OtterCastAmp or the left TRS jack of the OtterCastAudio. Activate the input through the web interface and enjoy your device as an amplifier or wireless audio capture card!
+You may need to adjust the input volume by running `PULSE_SERVER=x.x.x.x pavucontrol` and e.g. lowering the input volume to 30%.
+
+</div>
+</div>
