@@ -63,6 +63,6 @@ Use `paprefs` to enable local discovery and ensure `avahi-daemon` is running.
 
 ## Line In
 
-Not really a protocol, but a supported input method! Connect a line-in via the TRS jack on the back of the OtterCastAmp or the left TRS jack of the OtterCastAudio. Activate the input through the web interface and enjoy your device as an amplifier or wireless audio capture card!
+Not really a protocol, but a yet badly supported input method! Connect a line-in via the TRS jack on the back of the OtterCastAmp or the left TRS jack of the OtterCastAudio, then log onto the device via SSH and run `pactl load-module module-loopback latency_msec=1`.
 
 You may need to adjust the input volume by running `PULSE_SERVER=x.x.x.x pavucontrol` and e.g. lowering the input volume to 30%.
